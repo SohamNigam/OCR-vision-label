@@ -1,0 +1,22 @@
+# Core OCR and file/image processing
+google-cloud-vision
+pdf2image
+Pillow
+opencv-python
+
+# Generative AI (Gemini)
+google-generativeai
+
+# Web framework (optional, for API/backends)
+fastapi
+uvicorn
+
+# If you use environment variables in .env files
+python-dotenv
+
+# For handling HTTP requests in frontend/backend interaction
+requests
+
+# If using numpy for image operations and confusion matrix
+numpy
+

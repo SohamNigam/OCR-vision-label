@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Output and temp
+output/
+temp/
+
+# Google Cloud credentials
+vision-ocr-466709-44d985fb6a51.json
+
+# Node/Frontend
+node_modules/
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.bak
+*.swp
+*.tmp
